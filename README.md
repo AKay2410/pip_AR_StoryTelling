@@ -10,7 +10,6 @@ This AR project uses BlippAR's no-code builder to bring Pip's puppy school adven
 ## 🎨 Assets
 - Marker Image: `assets/marker-image.png`
 - AR Video: `assets/pip-training-video.mp4`
-- (Optional) Background Sound: `assets/background-sound.mp3`
 
 ## 🚀 Tools Used
 - Blippar (Blippbuilder) - Drag and Drop AR Creator
