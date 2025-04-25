@@ -22,7 +22,7 @@ This AR project uses BlippAR's no-code builder to bring Pip's puppy school adven
 3. Enjoy the AR story come alive!
 
 ## 📸 Preview
-![Blippar Setup Screenshot](![WhatsApp Image 2025-04-25 at 18 55 03_115dd2fd](https://github.com/user-attachments/assets/a02589c3-21fa-4455-9762-f4d5792b45db)
+##Blippar Setup Screenshot (![WhatsApp Image 2025-04-25 at 18 55 03_115dd2fd](https://github.com/user-attachments/assets/a02589c3-21fa-4455-9762-f4d5792b45db)
 
 
 ## 🛠 Future Improvements
